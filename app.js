@@ -113,7 +113,7 @@ const pintarFooter = () => {
 }
 
 const btnAccion = e => {
-    //Accion de aumentar
+    
     if (e.target. classList.contains('btn-info')) {
         //carrito[e.target.dataset.id];
         const producto = carrito[e.target.dataset.id];
