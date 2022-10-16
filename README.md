@@ -1,8 +1,8 @@
-#  HTML Hello
+#   DOM Carrito
 
 
 
-The most basic boilerplate for any 4Geeks Academy student using the [gitpod.io](gitpod.io) coding editor.
+A very basic market for training and play arround with the DOM.
 
 
 
